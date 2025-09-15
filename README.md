@@ -1,4 +1,4 @@
-# 🖼️ Object Recognition System
+# Object Recognition System
 
 ### Overview
 Developed a real-time object detection system using Python and OpenCV.  
