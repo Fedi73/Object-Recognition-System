@@ -14,7 +14,7 @@ The project integrates **YOLO-based detection** with voice feedback, preparing f
 Python, OpenCV, YOLO, pyttsx3
 
 ### Media
-- 🎥 [Demo Video](https://youtu.be/cccc)
+- 🎥 [Demo Video](https://youtu.be/SAp1MV6F5ao)
 
 ### Contributions
 - Implemented YOLO-based detection pipeline
